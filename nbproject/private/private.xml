@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/views/login.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/views/Barista/Barista.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/views/Cashier/Cashier.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/views/Admin/Admin.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/views/Cashier/C.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/views/Admin/addMenu.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/views/Admin/addIngredient.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/models/CartItem.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/models/Cart.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/models/Order.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/models/OrderItem.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/data_base/data_Base.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/controllers/OrderController.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/controllers/ProductController.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/models/ProductSize.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/util/StaffInfoPanel.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/util/TableUtilsEditOnly.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/util/PlaceholderUtil.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/util/UIStyles.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/util/RoundedLabel.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/util/TableUtils.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/controllers/IngredientController.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/util/SalesChartPanel.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/util/SidebarUtils.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/util/ScrollPanelUtils.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/util/TopProductsChartPanel.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/controllers/UserController.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/views/Cashier/Cashiers.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/util/StaffInfoPanelSmall.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/util/LowStockAlertPanel.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/util/WeeklySalesChart.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/views/Admin/addStaff.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/util/ApprovalPanel.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/models/user.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/util/RoundedComboBox.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/models/Categories.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/models/Product.java</file>
+            <file>file:/C:/Users/Daizy%20Magpantay/OneDrive/Documents/NetBeansProjects/CoffeeManagementSystem/src/controllers/ApprovalController.java</file>
+        </group>
+    </open-files>
+</project-private>
